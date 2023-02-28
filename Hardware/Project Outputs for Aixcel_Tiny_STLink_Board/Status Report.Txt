@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Aixcel_Tiny_STLink_Board.PrjPcb]
+   Generated File[Aixcel_Tiny_STLink_Board-RoundHoles.TXT]
+   Generated File[Aixcel_Tiny_STLink_Board-SlotHoles.TXT]
+   Generated File[Aixcel_Tiny_STLink_Board.LDP]
+   Generated File[Aixcel_Tiny_STLink_Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:05:35 On 2022/11/2

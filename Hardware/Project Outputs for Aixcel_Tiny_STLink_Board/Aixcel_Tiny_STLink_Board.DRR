@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Aixcel_Tiny_STLink_Board.PcbDoc   2022/11/2  13:05:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Aixcel_Tiny_STLink_Board-RoundHoles.TXT
+ASCII SlotHoles File : Aixcel_Tiny_STLink_Board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             223       PTH        0.00inch (0.00mm)
+T2      12mil (0.3mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T4      26mil (0.65mm)                                            Round             10        PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             10        PTH        0.00inch (0.00mm)
+T6      100mil (2.54mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T7      28mil (0.7mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              258
+
+Total Processing Time (hh:mm:ss) : 00:00:00

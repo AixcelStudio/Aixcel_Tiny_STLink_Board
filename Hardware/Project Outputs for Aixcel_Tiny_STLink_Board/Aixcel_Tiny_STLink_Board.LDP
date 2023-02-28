@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Aixcel_Tiny_STLink_Board_V3.0\Aixcel_Tiny_STLink_Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=aixcel_tiny_stlink_board-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=aixcel_tiny_stlink_board-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
